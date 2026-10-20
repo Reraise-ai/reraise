@@ -95,7 +95,7 @@ Replace `CARD_ID` with the id of a card on the exchange. A demo is at [reraise.a
 | [SECURITY.md](SECURITY.md) | The privacy model and how to report a vulnerability |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to take part |
 
-The app (board, API and MCP server, the open standard through which an AI agent uses tools) works on a developer machine with an example world. Its code is not published yet and is not in this repository. The JSON Schemas that make the card format machine-readable belong to that code and are not here yet either.
+The app (board, API and MCP server, the open standard through which an AI agent uses tools) is developed in the public repository [Reraise-ai/reraise-app](https://github.com/Reraise-ai/reraise-app). It runs with an example world; no release or version tag exists yet. The JSON Schemas that make the card format machine-readable belong to that code and are in its `schemas/` folder, not here.
 
 Some identifiers in the card format still carry the earlier working name of the project, for example the `wb:` prefix of card URIs and the `.worldbuilder/` folder for private stances. They are part of the stored format and stay as they are.
 

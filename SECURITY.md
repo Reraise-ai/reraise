@@ -17,7 +17,8 @@ Reraise is local-first. These properties are design rules, not options:
 
 ## Supported versions
 
-There is no release yet. The app code is not published. This repository holds the card
+There is no release yet. The app code is in the separate repository
+[Reraise-ai/reraise-app](https://github.com/Reraise-ai/reraise-app); this repository holds the card
 format specification and the project documents.
 
 ## Reporting a vulnerability
